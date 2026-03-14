@@ -1,2 +1,4 @@
-# -NENU_Undergraduate_Thesis
+# NENU_Undergraduate_Thesis
 东北师范大学本科毕业论文LaTeX模板
+## 按照东北师范大学本科生毕业论文模板-自然科学编写
+基本实现了目录，标题，摘要，参考文献，引用，图片等一系列格式设置。**仅供参考**
