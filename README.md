@@ -1,0 +1,2 @@
+# -NENU_Undergraduate_Thesis
+东北师范大学本科毕业论文LaTeX模板
