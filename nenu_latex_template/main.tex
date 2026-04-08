@@ -1,0 +1,19 @@
+\documentclass{main_setting}
+
+\begin{document}
+\input{abstract/abstractCN} % 中文摘要
+\input{abstract/abstractEN}
+\input{contents/index}
+
+
+\pagestyle{fancy}
+\setboolean{@twoside}{true}
+\zihao{-4}
+\setcounter{page}{1}
+\pagenumbering{arabic}
+\input{body/index}
+
+\input{reference/index}
+\input{AI_tools_explaination/explaination.tex}
+\setboolean{@twoside}{false}
+\end{document}
